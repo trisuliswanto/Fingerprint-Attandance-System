@@ -1,1 +1,1 @@
-# Fingerprint-Attandance-System
+# Fingerprint Attandance System
